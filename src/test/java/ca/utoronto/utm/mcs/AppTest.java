@@ -36,10 +36,10 @@ public class AppTest {
                 .build(), HttpResponse.BodyHandlers.ofString());
     }
 
-    @Test
-    public void exampleTest() {
-        assertTrue(true);
-    }
+    // @Test
+    // public void exampleTest() {
+    //     assertTrue(true);
+    // }
 
     @Test
     public void addActorPass() throws IOException, URISyntaxException, InterruptedException {
